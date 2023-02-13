@@ -93,7 +93,7 @@ the pitch.
 {% endif %}
 
 ### INDUSTRIAL ACTION
-Members of the University and Colleges Union will be undertaking industrial action on the 15th of February. The first day of the workshop may not be run because of this. Please check the workshop website the day prior to the workshop, and keep an eye out for any event emails with further updates. The session on Friday 17th (Python) will run as planned, and does not depend on the Wednesday lessons.
+Members of the University and Colleges Union will be undertaking industrial action on the 15th of February. The first day of the workshop _will not run_ because of this. The session on Friday 17th (Python) **will run as planned**, and does not depend on the Wednesday lessons.
 
 {% if site.pilot %}
 This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
